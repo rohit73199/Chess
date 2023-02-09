@@ -1,0 +1,28 @@
+html{
+    background-color:white;
+}
+body{
+    background-color: white;
+    width:800px;
+    height:800px;
+    
+    border: 20px solid grey;
+}
+
+.row{
+    height:100px;
+    width:800px;
+   float: left;
+}
+.black{
+    height:100px;
+   float: left;
+    width:100px;
+    background-color:black;
+}
+.white{
+   float: left;
+    height:100px;
+    width:100px;
+    background-color:white;
+}
